@@ -1,24 +1,19 @@
----
-layout: default
-title: Rodrigo Stefanes
----
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 25px; margin-bottom: 30px;">
+    
+    <div style="flex: 0 0 250px;"> <img src="caminho/para/sua/foto_no_github.jpg" 
+             alt="Foto de Rodrigo Stefanes" 
+             style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </div>
 
-<div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap; margin-top: 20px;">
-
-  <img src="assets/images/profile.jpg" alt="Rodrigo Stefanes"
-       width="190"
-       style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.25); max-width: 100%;">
-
-  <div style="flex: 1; min-width: 250px;">
-    <h1 style="margin-bottom: 10px;">Hello there!</h1>
-    <p style="margin-top: 0;">
-      My name is <strong>Rodrigo Stefanes</strong>. I am an undergraduate student at
-      <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.
-    </p>
-    <p style="margin-top: 10px;">
-      My main interests are in <strong>Logic</strong>.
-    </p>
-  </div>
+    <div style="flex: 1; min-width: 300px;"> <h1 style="margin-top: 0;">Hello there!</h1>
+        <p>
+            My name is <strong>Rodrigo Stefanes</strong>. I am an undergraduate student at 
+            <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.
+        </p>
+        <p>
+            My main interests are in <strong>Logic</strong>.
+        </p>
+    </div>
 
 </div>
 
