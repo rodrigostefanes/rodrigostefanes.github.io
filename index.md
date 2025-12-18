@@ -1,3 +1,5 @@
+<img src="assets/images/profile.jpg" alt="Rodrigo Stefanes" width="180" style="border-radius: 50%; display: block; margin: 0 auto; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+
 # Hello there!
 
 My name is **Rodrigo Stefanes**. I am an undergraduate student at [Universidade Federal de Santa Catarina (UFSC)](https://ufsc.br) in Brazil.
