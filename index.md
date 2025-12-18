@@ -1,5 +1,5 @@
 
-<img src="assets/image/profile.jpg" align="left" width="200" style="margin-right: 20px; border-radius: 10px;">
+<img src="assets/images/profile.jpg" align="left" width="200" style="margin-right: 20px; border-radius: 10px;">
 
 # Hello there!
 
@@ -8,15 +8,6 @@ My name is **Rodrigo Stefanes**. I am an undergraduate student at [Universidade 
 My main interests are in **Logic**, **Formal Methods**, and **Type Theory**. I am currently working on formal verification and modal logics.
 
 <br clear="left"/>
-
----
-
-## Research
-
----
-
-## Research
-
 
 ---
 
