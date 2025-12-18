@@ -28,7 +28,8 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
 * **Intrinsic and relative characterization results for logics with negative modalities**
   * *Jim de Groot, João Marcos, Rodrigo Stefanes*
   * Submitted (December 2025)
-  * Available on [arXiv](https://arxiv.org/abs/2512.15496).
+  * Available on [arXiv](https://arxiv.org/abs/2512.15496)
+
 ---
 
 
