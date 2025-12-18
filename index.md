@@ -1,4 +1,3 @@
-
 <img src="assets/images/profile.jpg" align="left" width="200" style="margin-right: 20px; border-radius: 10px;">
 
 # Hello there!
