@@ -57,21 +57,34 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
 * **Internship at [LabSEC](https://labsec.ufsc.br/)**
   * 01 August 2025 - 31 January 2026
 * **Undergraduate Research Project**
-  *Topic: Model theory of restoration operators 
-  *Funded by the [PIBIC/CNPq fellowship program](https://pibic.ufsc.br/)
+  * Topic: Model theory of restoration operators 
+  * Funded by the [PIBIC/CNPq fellowship program](https://pibic.ufsc.br/)
   * Advisor: [João Marcos](https://sites.google.com/site/sequiturquodlibet/)
   * 1 August 2025 - 31 August 2026
 * **Undergraduate Research Project**
-  *Topic: Functional Analysis
-  *Funded by the [PIBIC/CNPq fellowship program](https://pibic.ufsc.br/)
-  * Advisor: [Paulo Mendes de Carvalho Neto]([https://sites.google.com/site/sequiturquodlibet/](https://pyrotraxus.wixsite.com/pcarvalho))
+  * Topic: Functional Analysis
+  * Funded by the [PIBIC/CNPq fellowship program](https://pibic.ufsc.br/)
+  * Advisor: [Paulo Mendes de Carvalho Neto](https://pyrotraxus.wixsite.com/pcarvalho)
   * 1 September 2023 - 31 August 2024
 * **Undergraduate Research Project**
-  *Topic: Banach-Tarski paradox
-  * Advisor: [Luiz Gustavo Cordeiro]([[https://sites.google.com/site/sequiturquodlibet/](https://pyrotraxus.wixsite.com/pcarvalho](https://luizgcordeiro.github.io/)))
+  * Topic: Banach-Tarski paradox
+  * Advisor: [Luiz Gustavo Cordeiro](https://luizgcordeiro.github.io/)
   * 1 September 2023 - 31 August 2024
 
 ---
+## Organization
+
+* **1st WITCH — Workshop on Interdisciplinary Topics in Consequence and Hypothetical reasoning** (July 2025)
+  * Co-organizer 
+  * Held at UFSC, Florianópolis
+  * [Event Website](https://logicandlinguistics.ufsc.br/wp/witch-2025/)
+
+* **2nd WITCH — Workshop on Interdisciplinary Topics in Consequence and Hypothetical reasoning** (November 2025)
+  * Co-organizer
+  * Held at UFSC, Florianópolis
+  * [Event Website](https://logicandlinguistics.ufsc.br/wp/witch2-2025/)
+
+--
 
 ## Teaching
 
