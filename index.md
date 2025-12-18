@@ -53,7 +53,7 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
       
 * **[14th Principia International Symposium](https://principia.ufsc.br/)** (July 2025)
     * *Florianópolis, Brazil*
-    * Presented the talk: ["Characterizing the Expressiveness of Logics of Formal Inconsistency"](https://principia.ufsc.br/wpcontent/uploads/2025/07/14_Principia__Book_of_Abstracts__v11.pdf)
+    * Presented the talk: ["Characterizing the Expressiveness of Logics of Formal Inconsistency"](https://principia.ufsc.br/wp-content/uploads/2025/07/14_Principia__Book_of_Abstracts__v11.pdf)
 
 ---
 
