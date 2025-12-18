@@ -7,7 +7,7 @@ title: Rodrigo Stefanes
 
 My name is **Rodrigo Stefanes**. I am an undergraduate student at [Universidade Federal de Santa Catarina (UFSC)](https://ufsc.br) in Brazil.
 
-My main interests are in **Logic**, **Formal Methods**, and **Type Theory**. I am currently working on formal verification and modal logics.
+My main interests are in **Logic**.
 
 ---
 
@@ -23,7 +23,7 @@ I am also interested in Model Theory. In this area, I have recently submitted a 
   * *Jim de Groot, João Marcos, Rodrigo Stefanes*
   * Submitted (December 2025). Available on arXiv.
 
-### Computer Science
+### Computer Science Projects
 I also enjoy contributing to general Computer Science projects. Specifically, I have been working on **ranking and unranking algorithms**.
 
 ---
@@ -31,29 +31,29 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
 ## 🗣️ Events and Talks
 
 * **Logic Summer School** (Dec 2023)
-  * *Australian National University (ANU), Canberra*
-  * Attended lectures on model theory and category theory.
+    * *Australian National University (ANU), Canberra*
+    * Attended lectures on model theory and category theory.
 
 * **XXI Encontro Brasileiro de Lógica (EBL)** (May 2025)
-  * *São Paulo, Brazil*
-  * Presented the talk: "Title of your talk".
+    * *São Paulo, Brazil*
+    * Presented the talk: "Title of your talk".
 
 * **Seminar at University of Bern** (Sep 2025)
-  * *Bern, Switzerland*
-  * Talk about intuitionistic modal logic.
+    * *Bern, Switzerland*
+    * Talk about intuitionistic modal logic.
 
 ---
 
 ## 💻 Projects
 
 * **[Project Name](link-do-github)**
-  * Brief description (e.g., "Formalization of algorithms in Isabelle/HOL" or "Verus verification project").
-  * *Tools: Verus, Rust, Isabelle/HOL.*
+    * Brief description (e.g., "Formalization of algorithms in Isabelle/HOL" or "Verus verification project").
+    * *Tools: Verus, Rust, Isabelle/HOL.*
 
 ---
 
 ## 🎓 Education
 
 * **B.Sc. in Computer Science** (Expected 202X)
-  * Universidade Federal de Santa Catarina (UFSC)
-  * *Advisor: Prof. Haniel Barbosa*
+    * Universidade Federal de Santa Catarina (UFSC)
+    * *Advisor: Prof. Haniel Barbosa*
