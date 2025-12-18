@@ -91,11 +91,11 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
 
 * **Teaching Assistant - Logic I** (First Semester 2025)
   * Subject: Propositional Logic
-  * Supervisor: [Prof. João Marcos](https://sites.google.com/site/sequiturquodlibet/)
+  * Supervisor: [João Marcos](https://sites.google.com/site/sequiturquodlibet/)
 
 * **Teaching Assistant - Logic II** (Second Semester 2024)
   * Subject: First Order Logic
-  * Supervisor: [Prof. João Marcos](https://sites.google.com/site/sequiturquodlibet/)
+  * Supervisor: [João Marcos](https://sites.google.com/site/sequiturquodlibet/)
 
 ---
 
