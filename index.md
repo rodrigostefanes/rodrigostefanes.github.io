@@ -1,10 +1,19 @@
-<img src="assets/images/profile.jpg" alt="Rodrigo Stefanes" width="180" style="border-radius: 50%; display: block; margin: 0 auto; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 
-# Hello there!
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-My name is **Rodrigo Stefanes**. I am an undergraduate student at [Universidade Federal de Santa Catarina (UFSC)](https://ufsc.br) in Brazil.
+  <img src="assets/images/profile.jpg" alt="Rodrigo Stefanes"
+       width="180"
+       style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 
-My main interests are in **Logic**.
+  <div>
+    <h1>Hello there!</h1>
+    <p>My name is <strong>Rodrigo Stefanes</strong>. I am an undergraduate student at
+    <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
+
+    <p>My main interests are in <strong>Logic</strong>.</p>
+  </div>
+
+</div>
 
 ---
 
