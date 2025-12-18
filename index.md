@@ -17,17 +17,20 @@
 My research focuses on automated program verification. Currently, I am working on the formal validation of program verification tools.
 
 ### Mathematical Logic
-I am also interested in Model Theory. In this area, I have recently submitted a paper regarding the model-theoretical aspects of modal logics:
+I am also interested in Model Theory, in particular, of non-classical logics. 
+
+### Computer Science 
+I also enjoy contributing to general Computer Science projects. Specifically, I have been working on **ranking and unranking algorithms**.
+
+---
+##Publications & Preprints
 
 * **Intrinsic and relative characterization results for logics with negative modalities**
   * *Jim de Groot, João Marcos, Rodrigo Stefanes*
   * Submitted (December 2025)
   * Available on [arXiv](https://arxiv.org/abs/2512.15496).
-
-### Computer Science Projects
-I also enjoy contributing to general Computer Science projects. Specifically, I have been working on **ranking and unranking algorithms**.
-
 ---
+
 
 ## Events and Talks
 
