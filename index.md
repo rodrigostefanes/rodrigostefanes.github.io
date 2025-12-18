@@ -1,19 +1,31 @@
+---
+layout: default
+title: Rodrigo Stefanes
+---
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap; margin-top: 20px;">
 
   <img src="assets/images/profile.jpg" alt="Rodrigo Stefanes"
-       width="180"
-       style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+       width="190"
+       style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.25); max-width: 100%;">
 
-  <div>
-    <h1>Hello there!</h1>
-    <p>My name is <strong>Rodrigo Stefanes</strong>. I am an undergraduate student at
-    <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
-
-    <p>My main interests are in <strong>Logic</strong>.</p>
+  <div style="flex: 1; min-width: 250px;">
+    <h1 style="margin-bottom: 10px;">Hello there!</h1>
+    <p style="margin-top: 0;">
+      My name is <strong>Rodrigo Stefanes</strong>. I am an undergraduate student at
+      <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.
+    </p>
+    <p style="margin-top: 10px;">
+      My main interests are in <strong>Logic</strong>.
+    </p>
   </div>
 
 </div>
+
+---
+
+## Research
+
 
 ---
 
