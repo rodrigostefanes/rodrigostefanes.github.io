@@ -3,7 +3,7 @@
 
   <h1>Hello there!</h1>
 
-  <p>My name is <strong>Rodrigo Stefanes</strong>. I am currently completing my Bachelor's degree in mathematics at the <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
+  <p>My name is <strong>Rodrigo Stefanes</strong>. I am currently completing my Bachelor's degree in Mathematics at the <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
 
 
 ---
@@ -36,7 +36,7 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
     * *Australian National University (ANU), Canberra, Australia*
     * Attended the school as a participant
       
-* **[Autumn school "Proof and Computation](https://www.mathematik.uni-muenchen.de/~schwicht/pc25.php)"** (Sep 2025)
+* **[Autumn school "Proof and Computation"](https://www.mathematik.uni-muenchen.de/~schwicht/pc25.php)** (Sep 2025)
     * *Herrsching, Germany*
     * Attended the school as a participant
     *       
