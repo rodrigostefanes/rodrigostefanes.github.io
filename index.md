@@ -1,12 +1,14 @@
-<img src="assets/images/profile.jpg" align="left" width="150px" style="margin-right: 20px;" />
+<div style="overflow: hidden;">
+  <img src="assets/images/profile.jpg" style="float: left; margin-right: 20px; width: 150px; border-radius: 8px;" />
 
-# Hello there!
+  <h1>Hello there!</h1>
 
-My name is **Rodrigo Stefanes**. I am an undergraduate student at [Universidade Federal de Santa Catarina (UFSC)](https://ufsc.br) in Brazil.
+  <p>My name is <strong>Rodrigo Stefanes</strong>. I am an undergraduate student at
+  <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
 
-My main interests are in **Logic**.
+  <p>My main interests are in <strong>Logic</strong>.</p>
+</div>
 
-<br clear="left"/>
 
 ---
 
