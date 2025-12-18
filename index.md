@@ -1,8 +1,3 @@
----
-layout: default
-title: Rodrigo Stefanes
----
-
 # Hello there!
 
 My name is **Rodrigo Stefanes**. I am an undergraduate student at [Universidade Federal de Santa Catarina (UFSC)](https://ufsc.br) in Brazil.
