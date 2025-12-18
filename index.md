@@ -82,7 +82,7 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
   * Held at UFSC, Florianópolis
   * [Event Website](https://logicandlinguistics.ufsc.br/wp/witch2-2025/)
 
---
+---
 
 ## Teaching
 
