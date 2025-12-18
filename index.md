@@ -3,7 +3,7 @@
 
   <h1>Hello there!</h1>
 
-  <p>My name is <strong>Rodrigo Stefanes</strong>. I am currently completing my bachelors study in mathematics at <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
+  <p>My name is <strong>Rodrigo Stefanes</strong>. I am currently completing my Bachelor's degree in mathematics at <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
 
   <p>My main interests are in <strong>Logic</strong>.</p>
 </div>
@@ -39,7 +39,7 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
     * Attended the school as a participant.
       
 * **[Autumn school "Proof and Computation](https://www.mathematik.uni-muenchen.de/~schwicht/pc25.php)"** (Sep 2025)
-    * *Australian National University (ANU), Canberra, Australia*
+    * *Herrsching, Germany*
     * Attended the school as a participant.
     *       
 * **[XXI Brazilian Logic Conference(EBL)](https://ebl2025.ime.usp.br/)** (May 2025)
@@ -54,17 +54,43 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
 
 ## Projects
 
-* ** Internship at [LabSEC](https://labsec.ufsc.br/)
+* **Internship at [LabSEC](https://labsec.ufsc.br/)**
   * 01 August 2025 - 31 January 2026
-
-* ** I am being funded by CNPq to work on a project on model theory of restoration operators. This project is being advised by [João Marcos](https://sites.google.com/site/sequiturquodlibet/).
+* **Undergraduate Research Project**
+  *Topic: Model theory of restoration operators 
+  *Funded by the [PIBIC/CNPq fellowship program](https://pibic.ufsc.br/)
+  * Advisor: [João Marcos](https://sites.google.com/site/sequiturquodlibet/)
   * 1 August 2025 - 31 August 2026
+* **Undergraduate Research Project**
+  *Topic: Functional Analysis
+  *Funded by the [PIBIC/CNPq fellowship program](https://pibic.ufsc.br/)
+  * Advisor: [Paulo Mendes de Carvalho Neto]([https://sites.google.com/site/sequiturquodlibet/](https://pyrotraxus.wixsite.com/pcarvalho))
+  * 1 September 2023 - 31 August 2024
+* **Undergraduate Research Project**
+  *Topic: Banach-Tarski paradox
+  * Advisor: [Luiz Gustavo Cordeiro]([[https://sites.google.com/site/sequiturquodlibet/](https://pyrotraxus.wixsite.com/pcarvalho](https://luizgcordeiro.github.io/)))
+  * 1 September 2023 - 31 August 2024
 
 ---
 
-## 🎓 Education
+## Teaching
+
+* **Teaching Assistant - Logic I** (First Semester 2025)
+  * Subject: Propositional Logic
+  * Supervisor: [Prof. João Marcos](https://sites.google.com/site/sequiturquodlibet/)
+
+* **Teaching Assistant - Logic II** (Second Semester 2024)
+  * Subject: First Order Logic
+  * Supervisor: [Prof. João Marcos](https://sites.google.com/site/sequiturquodlibet/)
+
+---
+
+
+## Education
 
 * **B.Sc. in Mathematics** (Expected 2026)
     * Universidade Federal de Santa Catarina (UFSC)
-* **[Advanced mathematics program (PAM)](http://pam.mtm.ufsc.br/) **
-      
+* **[Advanced mathematics program (PAM)](http://pam.mtm.ufsc.br/)**
+  * A 756-hour honors program in mathematics
+* **XXV Summer School**
+      * Completed a 108-hour graduate-level course on **Functional Analysis**
