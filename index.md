@@ -1,18 +1,12 @@
-<tr>
-    <td width="200px">
-      <img src="assets/images/profile.jpg" width="100%" />
-    </td>
-    <td>
-      <h1>Hello there!</h1>
-      <p>
-        My name is <strong>Rodrigo Stefanes</strong>. I am an undergraduate student at <a href="LINK_DA_UFSC">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.
-      </p>
-      <p>
-        My main interests are in <strong>Logic</strong>.
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="assets/images/profile.jpg" align="left" width="150px" style="margin-right: 20px;" />
+
+# Hello there!
+
+My name is **Rodrigo Stefanes**. I am an undergraduate student at [Universidade Federal de Santa Catarina (UFSC)](https://ufsc.br) in Brazil.
+
+My main interests are in **Logic**.
+
+<br clear="left"/>
 
 ---
 
