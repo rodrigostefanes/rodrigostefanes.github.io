@@ -4,7 +4,7 @@
 
 My name is **Rodrigo Stefanes**. I am an undergraduate student at [Universidade Federal de Santa Catarina (UFSC)](https://ufsc.br) in Brazil.
 
-My main interests are in **Logic**, **Formal Methods**, and **Type Theory**. I am currently working on formal verification and modal logics.
+My main interests are in **Logic**.
 
 <br clear="left"/>
 
