@@ -23,7 +23,7 @@ I am also interested in Model Theory, in particular, of non-classical logics.
 I also enjoy contributing to general Computer Science projects. Specifically, I have been working on **ranking and unranking algorithms**.
 
 ---
-##Publications & Preprints
+## Publications & Preprints
 
 * **Intrinsic and relative characterization results for logics with negative modalities**
   * *Jim de Groot, João Marcos, Rodrigo Stefanes*
