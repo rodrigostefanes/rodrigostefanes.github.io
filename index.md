@@ -46,7 +46,7 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
 * **[Autumn school "Proof and Computation"](https://www.mathematik.uni-muenchen.de/~schwicht/pc25.php)** (Sep 2025)
     * *Herrsching, Germany*
     * Attended the school as a participant
-    *       
+    * 
 * **[XXI Brazilian Logic Conference(EBL)](https://ebl2025.ime.usp.br/)** (May 2025)
     * *Serra Negra, Brazil*
     * Presented the talk: ["Simulating a Smile"](https://scholar.google.com.br/citations?view_op=view_citation&hl=pt-BR&user=CQHNtSwAAAAJ&citation_for_view=CQHNtSwAAAAJ:u5HHmVD_uO8C)
