@@ -18,7 +18,8 @@ I am also interested in Model Theory. In this area, I have recently submitted a 
 
 * **Intrinsic and relative characterization results for logics with negative modalities**
   * *Jim de Groot, João Marcos, Rodrigo Stefanes*
-  * Submitted (December 2025). Available on [arXiv](https://arxiv.org/abs/2512.15496).
+  * Submitted (December 2025)
+  * Available on [arXiv](https://arxiv.org/abs/2512.15496).
 
 ### Computer Science Projects
 I also enjoy contributing to general Computer Science projects. Specifically, I have been working on **ranking and unranking algorithms**.
@@ -33,19 +34,19 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
 
 * **[Logic Summer School](https://comp.anu.edu.au/lss/lectures/2023/)** (Dec 2023)
     * *Australian National University (ANU), Canberra, Australia*
-    * Attended the school as a participant.
+    * Attended the school as a participant
       
 * **[Autumn school "Proof and Computation](https://www.mathematik.uni-muenchen.de/~schwicht/pc25.php)"** (Sep 2025)
     * *Herrsching, Germany*
-    * Attended the school as a participant.
+    * Attended the school as a participant
     *       
 * **[XXI Brazilian Logic Conference(EBL)](https://ebl2025.ime.usp.br/)** (May 2025)
     * *Serra Negra, Brazil*
-    * Presented the talk: ["Simulating a Smile"](https://scholar.google.com.br/citations?view_op=view_citation&hl=pt-BR&user=CQHNtSwAAAAJ&citation_for_view=CQHNtSwAAAAJ:u5HHmVD_uO8C).
+    * Presented the talk: ["Simulating a Smile"](https://scholar.google.com.br/citations?view_op=view_citation&hl=pt-BR&user=CQHNtSwAAAAJ&citation_for_view=CQHNtSwAAAAJ:u5HHmVD_uO8C)
       
 * **[14th Principia International Symposium](https://principia.ufsc.br/)** (July 2025)
     * *Florianópolis, Brazil*
-    * Presented the talk: ["Characterizing the Expressiveness of Logics of Formal Inconsistency"](https://principia.ufsc.br/wpcontent/uploads/2025/07/14_Principia__Book_of_Abstracts__v11.pdf).
+    * Presented the talk: ["Characterizing the Expressiveness of Logics of Formal Inconsistency"](https://principia.ufsc.br/wpcontent/uploads/2025/07/14_Principia__Book_of_Abstracts__v11.pdf)
 
 ---
 
