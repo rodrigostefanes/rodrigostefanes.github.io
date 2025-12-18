@@ -1,6 +1,6 @@
 <tr>
     <td width="200px">
-      <img src="CAMINHO_DA_SUA_IMAGEM.jpg" width="100%" />
+      <img src="assets/images/profile.jpg" width="100%" />
     </td>
     <td>
       <h1>Hello there!</h1>
