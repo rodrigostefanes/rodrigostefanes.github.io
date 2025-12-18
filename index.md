@@ -106,4 +106,4 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
 * **[Advanced mathematics program (PAM)](http://pam.mtm.ufsc.br/)**
   * A 756-hour honors program in mathematics
 * **XXV Summer School**
-      * Completed a 108-hour graduate-level course on **Functional Analysis**
+  * Completed a 108-hour graduate-level course on **Functional Analysis**
