@@ -1,5 +1,5 @@
 
-<img src="LINK_DA_SUA_FOTO.jpg" align="left" width="200" style="margin-right: 20px; border-radius: 10px;">
+<img src="assets/image/profile.jpg" align="left" width="200" style="margin-right: 20px; border-radius: 10px;">
 
 # Hello there!
 
