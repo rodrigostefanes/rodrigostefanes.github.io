@@ -1,4 +1,4 @@
-<img align="left" src="assets/images/profile.jpg" align="left" width="200" style="margin-right: 20px; border-radius: 10px;">
+<img src="assets/images/profile.jpg" align="left" width="150px" style="margin-right: 20px;" />
 
 # Hello there!
 
