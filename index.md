@@ -20,7 +20,7 @@ My research focuses on automated program verification. Currently, I am working o
 I am also interested in Model Theory, in particular, of non-classical logics. 
 
 ### Computer Science 
-I also enjoy contributing to general Computer Science projects. Specifically, I have been working on **ranking and unranking algorithms**.
+I also enjoy contributing to general Computer Science projects. Specifically, I have been working on ranking and unranking algorithms.
 
 ---
 ## Publications & Preprints
