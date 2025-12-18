@@ -73,7 +73,7 @@ I also enjoy contributing to general Computer Science projects. Specifically, I 
   * 1 September 2023 - 31 August 2024
 
 ---
-## Organization
+## Event Organization
 
 * **1st WITCH — Workshop on Interdisciplinary Topics in Consequence and Hypothetical reasoning** (July 2025)
   * Co-organizer 
