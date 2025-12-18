@@ -5,13 +5,16 @@
 
   <p>My name is <strong>Rodrigo Stefanes</strong>. I am currently completing my Bachelor's degree in Mathematics at the <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
 
+  <p>My academic interests lie primarily in <strong>Logic</strong> and its applications to computer science.</p>
+</div>
+
 
 ---
 
 ## Research
 
 ### Formal Methods
-My main research interest is automated program verification. Currently, I am working on formally validating program verification tools.
+My research focuses on automated program verification. Currently, I am working on the formal validation of program verification tools.
 
 ### Mathematical Logic
 I am also interested in Model Theory. In this area, I have recently submitted a paper regarding the model-theoretical aspects of modal logics:
