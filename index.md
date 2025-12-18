@@ -3,8 +3,7 @@
 
   <h1>Hello there!</h1>
 
-  <p>My name is <strong>Rodrigo Stefanes</strong>. I am an undergraduate student at
-  <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
+  <p>My name is <strong>Rodrigo Stefanes</strong>. I am completing my bachelors study in mathematics at <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
 
   <p>My main interests are in <strong>Logic</strong>.</p>
 </div>
