@@ -5,22 +5,16 @@
 
   <p>My name is <strong>Rodrigo Stefanes</strong>. I am currently completing my Bachelor's degree in Mathematics at the <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
 
-  <p>My academic interests lie primarily in <strong>Logic</strong> and its applications to computer science.</p>
-</div>
-
 
 ---
 
 ## Research
 
-### Formal Methods
-My research focuses on automated program verification. Currently, I am working on the formal validation of program verification tools.
+ <p>My academic interests lie primarily in <strong>Logic</strong> and its applications to computer science.</p>
+</div>. I have been working on <strong>automated program verification<strong>, with a particular focus on the formal validation of verification tools. I am also interested in <strong>model theory<strong>, specially in the context of non-classical logics. In addition, I enjoy contributing to broader <strong>computer science<strong> projects, such as the development of ranking and unranking algorithms.
 
-### Mathematical Logic
-I am also interested in Model Theory, in particular, of non-classical logics. 
 
-### Computer Science 
-I also enjoy contributing to general Computer Science projects. Specifically, I have been working on ranking and unranking algorithms.
+<p>My academic interests lie primarily in <strong>Logic</strong> and its applications to Computer Science. My research spans two main areas: <strong>program verification</strong>, specifically the formal validation of verification tools, and <strong>Model Theory</strong>, with a focus on non-classical logics. I also enjoy contributing to general Computer Science projects, including ongoing work on ranking and unranking algorithms.</p>
 
 ---
 ## Publications & Preprints
