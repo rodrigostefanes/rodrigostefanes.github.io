@@ -12,7 +12,7 @@
 
  <p>My academic interests lie primarily in <strong>Logic</strong> and its applications to computer science.</p>
 </div>
-I have been working on <strong>automated program verification<strong>, with a particular focus on the formal validation of verification tools. I am also interested in <strong>model theory<strong>, specially in the context of non-classical logics. In addition, I enjoy contributing to broader <strong>computer science<strong> projects, such as the development of ranking and unranking algorithms.
+I have been working on <strong>automated program verification</strong>, with a particular focus on the formal validation of verification tools. I am also interested in <strong>model theory</strong>, specially in the context of non-classical logics. In addition, I enjoy contributing to broader <strong>computer science<strong> projects, such as the development of ranking and unranking algorithms.
 
 ---
 ## Publications & Preprints
