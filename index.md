@@ -5,9 +5,10 @@
 
   <p>My name is <strong>Rodrigo Stefanes</strong>. I am currently completing my Bachelor's degree in Mathematics at the <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
 
- <p>If you would like to get in touch, feel free to reach out to me at:</p>
-<p style="margin-left: 20px;">rodrigoamstefanes [at] gmail [dot] com</p>
-
+<p>If you would like to get in touch, feel free to reach out to me at:</p>
+<div style="margin-left: 25px; font-weight: 500;">
+  rodrigoamstefanes [at] gmail [dot] com
+</div>
 
 </div>
 ---
