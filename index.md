@@ -5,15 +5,7 @@
 
   <p>My name is <strong>Rodrigo Stefanes</strong>. I am currently completing my Bachelor's degree in Mathematics at the <a href="https://ufsc.br">Universidade Federal de Santa Catarina (UFSC)</a> in Brazil.</p>
 
-<div style="margin-top: 20px; color: #555; font-style: italic;">
-      <p style="margin-bottom: 4px;">
-        If you would like to get in touch, feel free to reach out to me at:
-      </p>
-      
-      <p style="margin-top: 0; margin-left: 30px; font-weight: bold;">
-        rodrigoamstefanes [at] gmail [dot] com
-      </p>
-    </div>
+<p>  rodrigoamstefanes [at] gmail [dot] com </p>
 
 </div>
 ---
