@@ -23,6 +23,14 @@
   * *Jim de Groot, João Marcos, Rodrigo Stefanes*
   * Submitted (December 2025)
   * Available on [arXiv](https://arxiv.org/abs/2512.15496)
+ 
+* **Combinatorial ranking algorithms for the general linear group**
+  * *Gustavo	Zambonin, Larissa	Rosa, Tiago	Siqueira, Rodrigo	Stefanes, Ricardo	Custódio, Daniel Panario*
+  * Accepted to the 17th Latin American Theoretical Informatics Symposium
+ 
+* **Intuitionistic K is a bisimulation-invariant fragment of first order intuitionistic logic**
+  * *Jim de Groot, João Marcos, Rodrigo Stefanes*
+  * To be submitted
 
 ---
 
