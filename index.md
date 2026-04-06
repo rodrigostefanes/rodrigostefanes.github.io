@@ -28,7 +28,7 @@
  
 * **Intuitionistic K is a bisimulation-invariant fragment of first order intuitionistic logic**
   * *Jim de Groot, João Marcos, Rodrigo Stefanes*
-  * Submitted (March 2025)
+  * Submitted (March 2026)
 
 ---
 
