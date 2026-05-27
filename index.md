@@ -31,8 +31,6 @@
   * Accepted to Advances in Modal Logic 2026
 
 ---
-
-
 ## Talks
 
 ### Invited Talks
@@ -49,6 +47,7 @@
   * *Florianópolis, Brazil*
   * Presented the talk: ["Characterizing the Expressiveness of Logics of Formal Inconsistency"](https://principia.ufsc.br/wp-content/uploads/2025/07/14_Principia__Book_of_Abstracts__v11.pdf)
 
+---
 ## Education
 
 * **B.Sc. in Mathematics with Honours** (Jan 2023 - Dec 2026)
@@ -57,11 +56,9 @@
 * **[Logic Summer School](https://comp.anu.edu.au/lss/lectures/2023/)** (Dec 2023)
     * *Australian National University (ANU), Canberra, Australia*
     * Attended the school as a participant
-      
 * **[Autumn school "Proof and Computation"](https://www.mathematik.uni-muenchen.de/~schwicht/pc25.php)** (Sep 2025)
     * *Herrsching, Germany*
     * Attended the school as a participant
-  
 * **Graduate Courses**
   * 108-hour Functional Analysis course
   * 72-hour First-Order Modal Logic course
