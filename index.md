@@ -36,17 +36,15 @@
 ## Talks
 
 ### Invited Talks
-  
 * **[Bern Logic Seminar](https://logicseminar.inf.unibe.ch/)** (Sep 2025)
   * *University of Bern, Bern, Switzerland*
   * Presented the talk: [Characterizing the expressiveness of inconsistency-tolerant modal logics](https://logicseminar.inf.unibe.ch/HS2025.html#Stefanes)
 
 ### Contributed Talks
-  
 * **[XXI Brazilian Logic Conference(EBL)](https://ebl2025.ime.usp.br/)** (May 2025)
   * *Serra Negra, Brazil*
   * Presented the talk: ["Simulating a Smile"](https://scholar.google.com.br/citations?view_op=view_citation&hl=pt-BR&user=CQHNtSwAAAAJ&citation_for_view=CQHNtSwAAAAJ:u5HHmVD_uO8C)
-      
+  
 * **[14th Principia International Symposium](https://principia.ufsc.br/)** (July 2025)
   * *Florianópolis, Brazil*
   * Presented the talk: ["Characterizing the Expressiveness of Logics of Formal Inconsistency"](https://principia.ufsc.br/wp-content/uploads/2025/07/14_Principia__Book_of_Abstracts__v11.pdf)
