@@ -35,13 +35,13 @@
 
 ## Talks
 
-  ### Invited Talks
+ * Invited Talks
   
-* **[Bern Logic Seminar](https://logicseminar.inf.unibe.ch/)** (Sep 2025)
+  * **[Bern Logic Seminar](https://logicseminar.inf.unibe.ch/)** (Sep 2025)
     * *University of Bern, Bern, Switzerland*
     * Presented the talk: [Characterizing the expressiveness of inconsistency-tolerant modal logics](https://logicseminar.inf.unibe.ch/HS2025.html#Stefanes)
 
-  ###Contributed Talks
+  * Contributed Talks
   
 * **[XXI Brazilian Logic Conference(EBL)](https://ebl2025.ime.usp.br/)** (May 2025)
     * *Serra Negra, Brazil*
