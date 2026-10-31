@@ -8,11 +8,6 @@
 <p>  rodrigoamstefanes [at] gmail [dot] com </p>
 
 </div>
----
-
-## Research
-
- <p>My academic interests lie primarily in <strong>Logic</strong> and its applications to computer science.</p>
 
 ---
 ## Publications & Preprints
